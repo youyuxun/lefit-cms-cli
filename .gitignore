@@ -36,3 +36,4 @@ config/base.yaml
 yarn.lock
 /.history
 app/view/layout/.*
+package-lock.json
